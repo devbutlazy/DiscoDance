@@ -33,7 +33,7 @@ python main.py
 ## How to enable Spotify Music?
 
 `1` Go to [Spotify Client](https://developer.spotify.com/dashboard) and register a new app  
-`2` Copy the **client secret** and **client id**
+`2` Copy the **client secret** and **client id**  
 `3` Naviagate to `application.yaml` and search for `clientId` and `clientSecret`
 
 <a href="https://ibb.co/6mHwHd8"><img src="https://i.ibb.co/1LrQrSM/Screenshot-2023-11-21-093054.png" alt="Screenshot-2023-11-21-093054" border="0"></a>
