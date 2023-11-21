@@ -38,4 +38,4 @@ python main.py
 
 <a href="https://ibb.co/6mHwHd8"><img src="https://i.ibb.co/1LrQrSM/Screenshot-2023-11-21-093054.png" alt="Screenshot-2023-11-21-093054" border="0"></a>
 
-`4`Rerun your python file
+`4` Rerun your python file
